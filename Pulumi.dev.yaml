@@ -1,0 +1,6 @@
+config:
+  aws:region: ca-central-1
+  pulumi:template: static-website-aws-yaml
+  quirky-nanotube-jackalope:errorDocument: error.html
+  quirky-nanotube-jackalope:indexDocument: index.html
+  quirky-nanotube-jackalope:path: ./www
